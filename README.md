@@ -4,7 +4,7 @@ I'm @SzpakKamil, an aspiring iOS developer diving into the world of app developm
 
 ## Skills
 - **Languages:** Swift
-- **Frameworks:** SwiftUI
+- **Frameworks:** SwiftUI, SwiftData
 - **Tools:** Xcode
 
 ## Let's Connect
