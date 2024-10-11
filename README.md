@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm @SzpakKamil, an aspiring iOS developer diving into the world of app development. Currently, I'm honing my skills in Swift and just starting to explore SwiftUI. Excited to learn and grow as a developer!
+I'm @SzpakKamil, an aspiring iOS developer diving into the world of app development. Excited to learn and grow as a developer!
 
 ## Skills
 - **Languages:** Swift
