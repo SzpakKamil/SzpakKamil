@@ -12,4 +12,4 @@ Feel free to connect with me and share your insights and experiences in iOS deve
 
 - X: [@kamilszpak_dev](https://x.com/kamilszpak_dev)
 - YouTube: [@kamilszpak_dev](https://www.youtube.com/@kamilszpak_dev)
-- Email: kamilszpak.dev@icloud.com
+- Email: dev@kamilszpak.com
